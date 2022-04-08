@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Daftar Motor Impian</string>
+    <string name="Otomotif1">Terdapat beberapa motor atau kendaraan impian yang mungkin bisa dimiliki dikemudian hari</string>
+    <string name="Otomotif2"></string>
+    <string name="Otomotif3"></string>
+    <string name="Otomotif4"></string>
+    <string name="Otomotif5"></string>
+    <string name="Otomotif6"></string>
+    <string name="Otomotif7"></string>
+    <string name="Otomotif8"></string>
+    <string name="Otomotif9"></string>
+    <string name="Otomotif10">Aaminn semoga tercapai</string>
+
+    <string name="judul1">Honda Gold Wing</string>
+    <string name="judul2">Triumph Rocket 3 GT</string>
+    <string name="judul3">Yamaha R1</string>
+    <string name="judul4">Kawasaki Ninja H2</string>
+    <string name="judul5">BMW K1600 B Grand America</string>
+    <string name="judul6">Harley-Davidson Ultra Limited</string>
+    <string name="judul7">Moto Guzzi California Touring SE</string>
+    <string name="judul8">MV Agusta F4RR ABS</string>
+    <string name="judul9">Ducati Panigale V4 R</string>
+    <string name="judul10">Kawasaki Ninja ZX10-R</string>
+</resources>
